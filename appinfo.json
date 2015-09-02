@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "nateober@gmail.com",
+    "longName": "First WatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/phone_background2.png",
+                "name": "PhoneBG",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Calibril.ttf",
+                "name": "TestFont48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "First WatchFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "594a3a7e-14c2-49ee-ad57-eca088571ffe",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
